@@ -1,0 +1,2 @@
+### GET /hello/Alexandre
+GET http://localhost:3030/hello/bob
